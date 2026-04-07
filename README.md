@@ -7,7 +7,6 @@ In order to store and get the information about free time slots **Google Spreads
 
 Every time user interacts with the bot the information is updated by calling **Google Spreadsheet API**.
 
-Now, the bot is being used by **60** clients of the barber monthly. 
 
 **Screenshots from the bot:**
 
